@@ -21,8 +21,8 @@ let package = Package(
         .target(
             name: "SnapScrollView",
             dependencies: []),
-        .testTarget(
-            name: "SnapScrollViewTests",
-            dependencies: ["SnapScrollView"]),
+//        .testTarget(
+//            name: "SnapScrollViewTests",
+//            dependencies: ["SnapScrollView"]),
     ]
 )
